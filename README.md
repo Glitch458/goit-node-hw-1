@@ -1,14 +1,14 @@
 Операція 'list'
-https://ibb.co/5s0r13J
+![list](https://i.ibb.co/VM1gLGk/list.png)
 
 Операція 'get'
-https://ibb.co/R4qJrDF
+![get](https://i.ibb.co/7Nq0M1f/get.png)
 
 Операція 'add'
-https://ibb.co/FVDsjgP
+![add](https://i.ibb.co/16msw8S/add.png)
 
 Операція 'remove'
-https://ibb.co/z8BpxFk
+![remove](https://i.ibb.co/hX4b9cq/remove.png)
 
 Результат
-https://ibb.co/3r7mJ4Q
+![result](https://i.ibb.co/SsPwL5G/final.png)
